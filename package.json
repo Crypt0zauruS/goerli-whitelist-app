@@ -1,5 +1,6 @@
 {
   "name": "whitelist-dapp",
+  "description": "Whitelist Dapp limited to 10 accounts",
   "version": "0.1.0",
   "private": true,
   "scripts": {
