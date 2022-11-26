@@ -7,9 +7,4 @@ If you want to learn and memorize the code, AVOID to copy and paste the code fro
 Practice, practice, practice !!
 They use QuickNode to deploy the smart contract, but I choose Alchemy to deploy it on the Goerli testnet.
 
-For the Next/React part, I've decided to keep the exact code from the tutorial because:
-
-- Their comments are very useful to understand the code, learn and memorize it.
-- I have made others projects with React and I wanted to spend time to learn the solidity part.
-
 You can find my deployed dApp [here](https://goerli-whitelist-app.vercel.app//).
